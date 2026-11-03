@@ -1,0 +1,1363 @@
+[
+ {
+  "id": "CTcFGNjIKVK",
+  "name": "Ahafo",
+  "districts": [
+   {
+    "id": "aT5BGohkLIv",
+    "name": "Asunafo North",
+    "shortName": "Asunafo North"
+   },
+   {
+    "id": "Rtz6Fk8lcn4",
+    "name": "Asunafo South",
+    "shortName": "Asunafo South"
+   },
+   {
+    "id": "hg41FkDwTTh",
+    "name": "Asutifi North",
+    "shortName": "Asutifi North"
+   },
+   {
+    "id": "HWoWtKB07DD",
+    "name": "Asutifi South",
+    "shortName": "Asutifi South"
+   },
+   {
+    "id": "UIzZ8VVIz4i",
+    "name": "Tano North",
+    "shortName": "Tano North"
+   },
+   {
+    "id": "JXGYZYi86oB",
+    "name": "Tano South",
+    "shortName": "Tano South"
+   }
+  ]
+ },
+ {
+  "id": "tc6VxD5XPYb",
+  "name": "Ashanti",
+  "districts": [
+   {
+    "id": "kIvG6aaGqdX",
+    "name": "Afigya Kwabre North",
+    "shortName": "Afigya Kwabre N"
+   },
+   {
+    "id": "ntjtHRtZDiq",
+    "name": "Afigya Kwabre South",
+    "shortName": "Afigya Kwabre S"
+   },
+   {
+    "id": "azrGaa5Ryb0",
+    "name": "Ahafo Ano North",
+    "shortName": "Ahafo Ano North"
+   },
+   {
+    "id": "V0tG3Lhu1ea",
+    "name": "Ahafo Ano South East",
+    "shortName": "Ahafo Ano SE"
+   },
+   {
+    "id": "lfIzAN1uqwk",
+    "name": "Ahafo Ano South West",
+    "shortName": "Ahafo Ano SW"
+   },
+   {
+    "id": "Jdw25p3CPMP",
+    "name": "Akrofuom",
+    "shortName": "Akrofuom"
+   },
+   {
+    "id": "dTxKpPOjOCN",
+    "name": "Amansie Central",
+    "shortName": "Amansie Central"
+   },
+   {
+    "id": "GFlNV1qWFDJ",
+    "name": "Amansie South",
+    "shortName": "Amansie South"
+   },
+   {
+    "id": "aDZuN3kcVZd",
+    "name": "Amansie West",
+    "shortName": "Amansie West"
+   },
+   {
+    "id": "ZK4zXTtAdYc",
+    "name": "Asante Akim Central",
+    "shortName": "Asante Akim C"
+   },
+   {
+    "id": "KZaK4ZjEJLD",
+    "name": "Asante Akim North",
+    "shortName": "Asante Akim N"
+   },
+   {
+    "id": "QiEuPg6LU0G",
+    "name": "Asante Akim South",
+    "shortName": "Asante Akim S"
+   },
+   {
+    "id": "SFKtqAuSvjR",
+    "name": "Asokore Mampong Municipal",
+    "shortName": "Asokore Mamp."
+   },
+   {
+    "id": "N541ZK4Oh8a",
+    "name": "Asokwa",
+    "shortName": "Asokwa"
+   },
+   {
+    "id": "XEr3iBo2NlF",
+    "name": "Atwima Kwanwoma",
+    "shortName": "Atwima Kwanwoma"
+   },
+   {
+    "id": "DGycDC7jS8u",
+    "name": "Atwima Mponua",
+    "shortName": "Atwima Mponua"
+   },
+   {
+    "id": "ux251gTE3FR",
+    "name": "Atwima Nwabiagya North",
+    "shortName": "Atwima Nwab. N"
+   },
+   {
+    "id": "GnfR009x5MU",
+    "name": "Atwima Nwabiagya South",
+    "shortName": "Atwima Nwab. S"
+   },
+   {
+    "id": "r5Jcv9TByUM",
+    "name": "Bekwai Municipal",
+    "shortName": "Bekwai Mun."
+   },
+   {
+    "id": "W1WmDrFUcK3",
+    "name": "Bosome Freho",
+    "shortName": "Bosome Freho"
+   },
+   {
+    "id": "VAMpSuSsbGm",
+    "name": "Bosomtwe",
+    "shortName": "Bosomtwe"
+   },
+   {
+    "id": "WYodQACBcr5",
+    "name": "Ejisu Municipal",
+    "shortName": "Ejisu Mun."
+   },
+   {
+    "id": "hlL5misU5JG",
+    "name": "Ejura Sekyedumase",
+    "shortName": "Ejura Sekyedumase"
+   },
+   {
+    "id": "As8xghKDdHb",
+    "name": "Juaben Municipal",
+    "shortName": "Juaben Mun."
+   },
+   {
+    "id": "guJXkAnh4gx",
+    "name": "Kumasi Metropolitan",
+    "shortName": "Kumasi Metro"
+   },
+   {
+    "id": "GwApxykpWHV",
+    "name": "Kwabre East",
+    "shortName": "Kwabre East"
+   },
+   {
+    "id": "IDtdnChPDY8",
+    "name": "Mampong Municipal",
+    "shortName": "Mampong Mun."
+   },
+   {
+    "id": "FPzMrxZQ8jk",
+    "name": "Obuasi East",
+    "shortName": "Obuasi East"
+   },
+   {
+    "id": "xtn5hD3ZTCf",
+    "name": "Obuasi Municipal",
+    "shortName": "Obuasi Mun."
+   },
+   {
+    "id": "Z6oSXO3dG9B",
+    "name": "Offinso Municipal",
+    "shortName": "Offinso Mun."
+   },
+   {
+    "id": "xNMIoUm3RZW",
+    "name": "Offinso North",
+    "shortName": "Offinso North"
+   },
+   {
+    "id": "PpjTc4molAx",
+    "name": "Sekyere Afram Plains",
+    "shortName": "Sekyere Afram"
+   },
+   {
+    "id": "dej93vUsWl9",
+    "name": "Sekyere Central",
+    "shortName": "Sekyere Central"
+   },
+   {
+    "id": "FIMvqboGAch",
+    "name": "Sekyere East",
+    "shortName": "Sekyere East"
+   },
+   {
+    "id": "Mz2u67jvdiu",
+    "name": "Sekyere Kumawu",
+    "shortName": "Sekyere Kumawu"
+   },
+   {
+    "id": "UuxCnU0YDsB",
+    "name": "Sekyere South",
+    "shortName": "Sekyere South"
+   }
+  ]
+ },
+ {
+  "id": "HtAn1jqkUEK",
+  "name": "Bono",
+  "districts": [
+   {
+    "id": "jGJwbuxuT3w",
+    "name": "Banda",
+    "shortName": "Banda"
+   },
+   {
+    "id": "c4Ensy0GPs7",
+    "name": "Berekum East",
+    "shortName": "Berekum East"
+   },
+   {
+    "id": "kcbck7kCwRg",
+    "name": "Berekum West",
+    "shortName": "Berekum West"
+   },
+   {
+    "id": "Ztj4yMPMKeq",
+    "name": "Dormaa Central Municipal",
+    "shortName": "Dormaa Central"
+   },
+   {
+    "id": "CKzdPtrba6h",
+    "name": "Dormaa East",
+    "shortName": "Dormaa East"
+   },
+   {
+    "id": "zc7C3yG8Msv",
+    "name": "Dormaa West",
+    "shortName": "Dormaa West"
+   },
+   {
+    "id": "rIsu2GZrH57",
+    "name": "Jaman North",
+    "shortName": "Jaman North"
+   },
+   {
+    "id": "STp1uCajIAr",
+    "name": "Jaman South",
+    "shortName": "Jaman South"
+   },
+   {
+    "id": "rpAwiJs0dJ1",
+    "name": "Suinyani East",
+    "shortName": "Suinyani East"
+   },
+   {
+    "id": "NpGVyse7HkE",
+    "name": "Suinyani Municipal",
+    "shortName": "Suinyani Mun."
+   },
+   {
+    "id": "YmQGpOQIdka",
+    "name": "Tain",
+    "shortName": "Tain"
+   },
+   {
+    "id": "WIWmCYp1itD",
+    "name": "Wenchi Municipal",
+    "shortName": "Wenchi Mun."
+   }
+  ]
+ },
+ {
+  "id": "Mgn356SFW9S",
+  "name": "Bono East",
+  "districts": [
+   {
+    "id": "in8DqnWy6G7",
+    "name": "Atebubu-Amantin",
+    "shortName": "Atebubu-Amantin"
+   },
+   {
+    "id": "s79obbQzWPU",
+    "name": "Kintampo North",
+    "shortName": "Kintampo North"
+   },
+   {
+    "id": "iNt3eLGjJ8V",
+    "name": "Kintampo South",
+    "shortName": "Kintampo South"
+   },
+   {
+    "id": "amoVRh41X17",
+    "name": "Nkoranza North",
+    "shortName": "Nkoranza North"
+   },
+   {
+    "id": "nkMG7dl62G9",
+    "name": "Nkoranza South",
+    "shortName": "Nkoranza South"
+   },
+   {
+    "id": "JacBkV5gS0l",
+    "name": "Pru East",
+    "shortName": "Pru East"
+   },
+   {
+    "id": "KRAS2rgk7Lp",
+    "name": "Pru West",
+    "shortName": "Pru West"
+   },
+   {
+    "id": "wWW9X22KOcK",
+    "name": "Sene East",
+    "shortName": "Sene East"
+   },
+   {
+    "id": "xQAaXj0jEL4",
+    "name": "Sene West",
+    "shortName": "Sene West"
+   },
+   {
+    "id": "SIinLXDlKZD",
+    "name": "Techiman Municipal",
+    "shortName": "Techiman Mun."
+   },
+   {
+    "id": "oCU3CGqsgVA",
+    "name": "Techiman North",
+    "shortName": "Techiman North"
+   }
+  ]
+ },
+ {
+  "id": "pdUufrsfhc0",
+  "name": "Central",
+  "districts": [
+   {
+    "id": "W325cdSiUBN",
+    "name": "Abura Asebu Kwamankese",
+    "shortName": "Abura Asebu"
+   },
+   {
+    "id": "iyYhdIVbrKL",
+    "name": "Agona East",
+    "shortName": "Agona East"
+   },
+   {
+    "id": "K17YOZomtOf",
+    "name": "Agona West Municipal",
+    "shortName": "Agona West"
+   },
+   {
+    "id": "ckd29b86z3o",
+    "name": "Ajumako Enyan Essiam",
+    "shortName": "Ajumako Enyan"
+   },
+   {
+    "id": "Q6WPRJrhg4v",
+    "name": "Asikuma Odoben Brakwa",
+    "shortName": "Asikuma Odoben"
+   },
+   {
+    "id": "lxTTpy1Azdt",
+    "name": "Assin Central",
+    "shortName": "Assin Central"
+   },
+   {
+    "id": "PBP7I5FZr6m",
+    "name": "Assin North",
+    "shortName": "Assin North"
+   },
+   {
+    "id": "AFKUamNlJc3",
+    "name": "Assin South",
+    "shortName": "Assin South"
+   },
+   {
+    "id": "XKZOHIjvrsc",
+    "name": "Awutu Senya East Municipal",
+    "shortName": "Awutu Senya E"
+   },
+   {
+    "id": "VB5TCUIvJnv",
+    "name": "Awutu Senya West",
+    "shortName": "Awutu Senya W"
+   },
+   {
+    "id": "T2gZEvF49ox",
+    "name": "Cape Coast Metropolitan",
+    "shortName": "Cape Coast Metro"
+   },
+   {
+    "id": "qaWth75yUgO",
+    "name": "Effutu Municipal",
+    "shortName": "Effutu Mun."
+   },
+   {
+    "id": "dnZxYMILeDw",
+    "name": "Ekumfi",
+    "shortName": "Ekumfi"
+   },
+   {
+    "id": "lmEMVtiCJvF",
+    "name": "Gomoa Central",
+    "shortName": "Gomoa Central"
+   },
+   {
+    "id": "Abb5mZMlu5G",
+    "name": "Gomoa East",
+    "shortName": "Gomoa East"
+   },
+   {
+    "id": "fY6EODS3gLL",
+    "name": "Gomoa West",
+    "shortName": "Gomoa West"
+   },
+   {
+    "id": "BHvWAC9CxtJ",
+    "name": "Hemang Lower Denkyira",
+    "shortName": "Hemang Lower D"
+   },
+   {
+    "id": "NwvtMbGO7MG",
+    "name": "Komenda Edina Eguafo Abrem",
+    "shortName": "KEEA"
+   },
+   {
+    "id": "OaYstu7kmSo",
+    "name": "Mfantsiman Municipal",
+    "shortName": "Mfantsiman"
+   },
+   {
+    "id": "MvFmEwgRVaN",
+    "name": "Twifo Atti Morkwa",
+    "shortName": "Twifo Atti"
+   },
+   {
+    "id": "RPnEQA6tQEt",
+    "name": "Twifo Hemang Lower Denkyira",
+    "shortName": "Twifo Hemang"
+   },
+   {
+    "id": "f5RU502bZSH",
+    "name": "Upper Denkyira East",
+    "shortName": "Upper Denkyira E"
+   },
+   {
+    "id": "DT5A68TPruX",
+    "name": "Upper Denkyira West",
+    "shortName": "Upper Denkyira W"
+   }
+  ]
+ },
+ {
+  "id": "Lnci3SdcnJX",
+  "name": "Eastern",
+  "districts": [
+   {
+    "id": "pc4Zh3CbF6T",
+    "name": "Abuakwa North",
+    "shortName": "Abuakwa North"
+   },
+   {
+    "id": "zhQb1rUhAU3",
+    "name": "Abuakwa South",
+    "shortName": "Abuakwa South"
+   },
+   {
+    "id": "HDs3cYSxGwn",
+    "name": "Achiase",
+    "shortName": "Achiase"
+   },
+   {
+    "id": "h2FKsc4Bbqi",
+    "name": "Afram Plains North",
+    "shortName": "Afram Plains N"
+   },
+   {
+    "id": "xeXykdJUPBa",
+    "name": "Afram Plains South",
+    "shortName": "Afram Plains S"
+   },
+   {
+    "id": "H8oMsASlZJN",
+    "name": "Akuapem North",
+    "shortName": "Akuapem North"
+   },
+   {
+    "id": "FTTq0Jpxj8Z",
+    "name": "Akuapem South",
+    "shortName": "Akuapem South"
+   },
+   {
+    "id": "ttJNNjA4TTw",
+    "name": "Akyemansa",
+    "shortName": "Akyemansa"
+   },
+   {
+    "id": "IHPDrWHj9mx",
+    "name": "Asene Manso Akroso",
+    "shortName": "Asene Manso"
+   },
+   {
+    "id": "dktQAuCTvdf",
+    "name": "Atiwa East",
+    "shortName": "Atiwa East"
+   },
+   {
+    "id": "sKZtYl7j9rI",
+    "name": "Atiwa West",
+    "shortName": "Atiwa West"
+   },
+   {
+    "id": "JVH7fhmvbBe",
+    "name": "Ayensuano",
+    "shortName": "Ayensuano"
+   },
+   {
+    "id": "FXjEEaVCI19",
+    "name": "Birim Central Municipal",
+    "shortName": "Birim Central"
+   },
+   {
+    "id": "fpI6LDUiPF2",
+    "name": "Birim North",
+    "shortName": "Birim North"
+   },
+   {
+    "id": "hgyEMKlTtuv",
+    "name": "Birim South",
+    "shortName": "Birim South"
+   },
+   {
+    "id": "ICi8hgNcye6",
+    "name": "Denkyembuor",
+    "shortName": "Denkyembuor"
+   },
+   {
+    "id": "JesqihXoTJq",
+    "name": "Fanteakwa North",
+    "shortName": "Fanteakwa North"
+   },
+   {
+    "id": "TSx8aitPSrY",
+    "name": "Fanteakwa South",
+    "shortName": "Fanteakwa South"
+   },
+   {
+    "id": "G4mhs2BMrdC",
+    "name": "Kwaebibirem",
+    "shortName": "Kwaebibirem"
+   },
+   {
+    "id": "K8BKQVyVcVi",
+    "name": "Kwahu Afram Plains North",
+    "shortName": "Kwahu Afram N"
+   },
+   {
+    "id": "gBPaYUol4Fh",
+    "name": "Kwahu Afram Plains South",
+    "shortName": "Kwahu Afram S"
+   },
+   {
+    "id": "or887jMx3NT",
+    "name": "Kwahu East",
+    "shortName": "Kwahu East"
+   },
+   {
+    "id": "pPkTmWEcPNd",
+    "name": "Kwahu South",
+    "shortName": "Kwahu South"
+   },
+   {
+    "id": "mRPqA7pes0o",
+    "name": "Kwahu West Municipal",
+    "shortName": "Kwahu West"
+   },
+   {
+    "id": "HV8kk0yXzgj",
+    "name": "Lower Manya Krobo",
+    "shortName": "Lower Manya"
+   },
+   {
+    "id": "kfLxHww2DIR",
+    "name": "New Juaben North",
+    "shortName": "New Juaben N"
+   },
+   {
+    "id": "N2bgzux6VRF",
+    "name": "New Juaben South Municipal",
+    "shortName": "New Juaben S"
+   },
+   {
+    "id": "x9Z92yRtcOt",
+    "name": "Nsawam Adoagyiri",
+    "shortName": "Nsawam Adoagyiri"
+   },
+   {
+    "id": "Vqzl33FJywk",
+    "name": "Okere",
+    "shortName": "Okere"
+   },
+   {
+    "id": "Un11a58bGfW",
+    "name": "Suhum",
+    "shortName": "Suhum"
+   },
+   {
+    "id": "FanLR6Jmmg1",
+    "name": "Upper Manya Krobo",
+    "shortName": "Upper Manya"
+   },
+   {
+    "id": "L8vui4mD1o0",
+    "name": "Upper West Akim",
+    "shortName": "Upper West Akim"
+   },
+   {
+    "id": "kl8FaddwS94",
+    "name": "West Akim",
+    "shortName": "West Akim"
+   },
+   {
+    "id": "NuiXrDKi3zo",
+    "name": "Yilo Krobo",
+    "shortName": "Yilo Krobo"
+   }
+  ]
+ },
+ {
+  "id": "GwiRGCzObJ1",
+  "name": "Greater Accra",
+  "districts": [
+   {
+    "id": "Ql3pNJz8ZBQ",
+    "name": "Ablekuma Central",
+    "shortName": "Ablekuma Central"
+   },
+   {
+    "id": "FOFbOTLdbLi",
+    "name": "Ablekuma North",
+    "shortName": "Ablekuma North"
+   },
+   {
+    "id": "gRNBMZu2B5O",
+    "name": "Ablekuma West",
+    "shortName": "Ablekuma West"
+   },
+   {
+    "id": "FGdy4qHmw5T",
+    "name": "Accra Metropolitan",
+    "shortName": "Accra Metro"
+   },
+   {
+    "id": "uL2uBxDiCeJ",
+    "name": "Ada East",
+    "shortName": "Ada East"
+   },
+   {
+    "id": "twQy2ySPeLe",
+    "name": "Ada West",
+    "shortName": "Ada West"
+   },
+   {
+    "id": "hMrcG3HTsxT",
+    "name": "Adentan Municipal",
+    "shortName": "Adentan Mun."
+   },
+   {
+    "id": "O8MbdMddyKp",
+    "name": "Ashaiman Municipal",
+    "shortName": "Ashaiman Mun."
+   },
+   {
+    "id": "tKjhglEQ8KI",
+    "name": "Ayawaso Central",
+    "shortName": "Ayawaso Central"
+   },
+   {
+    "id": "b0ctzWlKVLn",
+    "name": "Ayawaso East",
+    "shortName": "Ayawaso East"
+   },
+   {
+    "id": "n7jpc8yVOqO",
+    "name": "Ayawaso North",
+    "shortName": "Ayawaso North"
+   },
+   {
+    "id": "Z37hzLtuJLI",
+    "name": "Ayawaso West",
+    "shortName": "Ayawaso West"
+   },
+   {
+    "id": "BuuDEpJfVJF",
+    "name": "Ga Central",
+    "shortName": "Ga Central"
+   },
+   {
+    "id": "zwp36EybhBR",
+    "name": "Ga East Municipal",
+    "shortName": "Ga East Mun."
+   },
+   {
+    "id": "tIzWYca0QEN",
+    "name": "Ga North",
+    "shortName": "Ga North"
+   },
+   {
+    "id": "E7mATImq4Rs",
+    "name": "Ga South Municipal",
+    "shortName": "Ga South Mun."
+   },
+   {
+    "id": "dDAGIRnzyXk",
+    "name": "Ga West Municipal",
+    "shortName": "Ga West Mun."
+   },
+   {
+    "id": "TPBhQ1CZRw0",
+    "name": "Korle Klottey",
+    "shortName": "Korle Klottey"
+   },
+   {
+    "id": "NflcRyJKAUJ",
+    "name": "Kpone Katamanso",
+    "shortName": "Kpone Katamanso"
+   },
+   {
+    "id": "f426XnszWKI",
+    "name": "Krowor",
+    "shortName": "Krowor"
+   },
+   {
+    "id": "Vuw8AWUktHf",
+    "name": "La Dade Kotopon",
+    "shortName": "La Dade Kotopon"
+   },
+   {
+    "id": "XTCEqzX0Moe",
+    "name": "La Nkwantanang Madina",
+    "shortName": "La Nkwantanang"
+   },
+   {
+    "id": "Dbah1Mtyao6",
+    "name": "Ledzokuku",
+    "shortName": "Ledzokuku"
+   },
+   {
+    "id": "rDDDiaD9a0W",
+    "name": "Ningo Prampram",
+    "shortName": "Ningo Prampram"
+   },
+   {
+    "id": "aiCsxKrUBvn",
+    "name": "Okaikwei North",
+    "shortName": "Okaikwei North"
+   },
+   {
+    "id": "zEMzwpsJpFf",
+    "name": "Shai Osudoku",
+    "shortName": "Shai Osudoku"
+   },
+   {
+    "id": "ofQp1Akg47a",
+    "name": "Tema Metropolitan",
+    "shortName": "Tema Metro"
+   },
+   {
+    "id": "wNn8vgusEku",
+    "name": "Tema West",
+    "shortName": "Tema West"
+   },
+   {
+    "id": "JszQ6IuOo2A",
+    "name": "Weija Gbawe",
+    "shortName": "Weija Gbawe"
+   }
+  ]
+ },
+ {
+  "id": "elG1jdJlmXu",
+  "name": "North East",
+  "districts": [
+   {
+    "id": "abwMd4XLtZ9",
+    "name": "Bunkpurugu Nakpayili",
+    "shortName": "Bunkpurugu"
+   },
+   {
+    "id": "K2L4s63CToF",
+    "name": "Chereponi",
+    "shortName": "Chereponi"
+   },
+   {
+    "id": "aZX2Lm7fJB3",
+    "name": "East Mamprusi Municipal",
+    "shortName": "East Mamprusi"
+   },
+   {
+    "id": "kEJXML9cnmP",
+    "name": "Mamprugu Moagduri",
+    "shortName": "Mamprugu Moagduri"
+   },
+   {
+    "id": "OxzZ4T7urkQ",
+    "name": "West Mamprusi Municipal",
+    "shortName": "West Mamprusi"
+   },
+   {
+    "id": "DmJGcgKLXwH",
+    "name": "Yunyoo Nasuan",
+    "shortName": "Yunyoo Nasuan"
+   }
+  ]
+ },
+ {
+  "id": "N08sn3gkheX",
+  "name": "Northern",
+  "districts": [
+   {
+    "id": "rXSIoDPUh3T",
+    "name": "Gushegu",
+    "shortName": "Gushegu"
+   },
+   {
+    "id": "U1UOPHb5a6a",
+    "name": "Karaga",
+    "shortName": "Karaga"
+   },
+   {
+    "id": "OUDGOPolLuX",
+    "name": "Kpandai",
+    "shortName": "Kpandai"
+   },
+   {
+    "id": "ECRKkeaCPzl",
+    "name": "Kumbungu",
+    "shortName": "Kumbungu"
+   },
+   {
+    "id": "xLW4e3crOZm",
+    "name": "Mion",
+    "shortName": "Mion"
+   },
+   {
+    "id": "I0r06SHGnDC",
+    "name": "Nanton",
+    "shortName": "Nanton"
+   },
+   {
+    "id": "Hmugf4r6rC1",
+    "name": "Nanumba North",
+    "shortName": "Nanumba North"
+   },
+   {
+    "id": "EBb0GItdVxn",
+    "name": "Nanumba South",
+    "shortName": "Nanumba South"
+   },
+   {
+    "id": "wYsaSq8Lg66",
+    "name": "Saboba",
+    "shortName": "Saboba"
+   },
+   {
+    "id": "oM1sg8LrSOh",
+    "name": "Sagnarigu",
+    "shortName": "Sagnarigu"
+   },
+   {
+    "id": "x5P7fP9mV0B",
+    "name": "Savelugu",
+    "shortName": "Savelugu"
+   },
+   {
+    "id": "YcXmM0aDcE6",
+    "name": "Tamale Metropolitan",
+    "shortName": "Tamale Metro"
+   },
+   {
+    "id": "HkhpINcoG7E",
+    "name": "Tolon",
+    "shortName": "Tolon"
+   },
+   {
+    "id": "lA3j3NSt2rb",
+    "name": "Yendi Municipal",
+    "shortName": "Yendi Mun."
+   },
+   {
+    "id": "QgiRtKk5tth",
+    "name": "Zabzugu",
+    "shortName": "Zabzugu"
+   }
+  ]
+ },
+ {
+  "id": "JhnIaUsF4D0",
+  "name": "Oti",
+  "districts": [
+   {
+    "id": "OdJUUWGCe5J",
+    "name": "Biakoye",
+    "shortName": "Biakoye"
+   },
+   {
+    "id": "zvuOeTXqi2Y",
+    "name": "Guan",
+    "shortName": "Guan"
+   },
+   {
+    "id": "LzZwbhiE2TM",
+    "name": "Jasikan",
+    "shortName": "Jasikan"
+   },
+   {
+    "id": "BpTyzo3XLrC",
+    "name": "Kadjebi",
+    "shortName": "Kadjebi"
+   },
+   {
+    "id": "WTDvmqS7eqO",
+    "name": "Krachi East",
+    "shortName": "Krachi East"
+   },
+   {
+    "id": "yRp3kLyDBdg",
+    "name": "Krachi Nchumuru",
+    "shortName": "Krachi Nchumuru"
+   },
+   {
+    "id": "ykpIlwsjRER",
+    "name": "Krachi West",
+    "shortName": "Krachi West"
+   },
+   {
+    "id": "Xxi3FLSlrGr",
+    "name": "Nkwanta North",
+    "shortName": "Nkwanta North"
+   },
+   {
+    "id": "w2w4mMaulqN",
+    "name": "Nkwanta South",
+    "shortName": "Nkwanta South"
+   }
+  ]
+ },
+ {
+  "id": "BY5o0Nt4zuZ",
+  "name": "Savannah",
+  "districts": [
+   {
+    "id": "zJHx30tw53P",
+    "name": "Bole",
+    "shortName": "Bole"
+   },
+   {
+    "id": "HN4LE8dIxt8",
+    "name": "Central Gonja",
+    "shortName": "Central Gonja"
+   },
+   {
+    "id": "hFhcBLG8IcJ",
+    "name": "East Gonja Municipal",
+    "shortName": "East Gonja"
+   },
+   {
+    "id": "WGevt6KJajg",
+    "name": "North East Gonja",
+    "shortName": "NE Gonja"
+   },
+   {
+    "id": "bKIQ00VKj15",
+    "name": "North Gonja",
+    "shortName": "North Gonja"
+   },
+   {
+    "id": "QkxDrcuXyN1",
+    "name": "Sawla Tuna Kalba",
+    "shortName": "Sawla Tuna Kalba"
+   },
+   {
+    "id": "Ihn1alnJp9G",
+    "name": "West Gonja Municipal",
+    "shortName": "West Gonja"
+   }
+  ]
+ },
+ {
+  "id": "fQbPWKMUava",
+  "name": "Upper East",
+  "districts": [
+   {
+    "id": "C2MReZyvq8y",
+    "name": "Bawku Municipal",
+    "shortName": "Bawku Mun."
+   },
+   {
+    "id": "dF0hQKukZwc",
+    "name": "Bawku West",
+    "shortName": "Bawku West"
+   },
+   {
+    "id": "IRmwVpE6UeD",
+    "name": "Binduri",
+    "shortName": "Binduri"
+   },
+   {
+    "id": "wY2acbuWQsr",
+    "name": "Bolgatanga East",
+    "shortName": "Bolgatanga East"
+   },
+   {
+    "id": "p84pzV3NTXF",
+    "name": "Bolgatanga Municipal",
+    "shortName": "Bolgatanga Mun."
+   },
+   {
+    "id": "Iu9r9BHdB63",
+    "name": "Bongo",
+    "shortName": "Bongo"
+   },
+   {
+    "id": "KEky3Annl79",
+    "name": "Builsa North",
+    "shortName": "Builsa North"
+   },
+   {
+    "id": "I8aL3cg7DKg",
+    "name": "Builsa South",
+    "shortName": "Builsa South"
+   },
+   {
+    "id": "svDzWj3GJnC",
+    "name": "Garu",
+    "shortName": "Garu"
+   },
+   {
+    "id": "Bi5zXEr286G",
+    "name": "Kassena Nankana East",
+    "shortName": "Kassena Nankana E"
+   },
+   {
+    "id": "wQsIvrre8PV",
+    "name": "Kassena Nankana West",
+    "shortName": "Kassena Nankana W"
+   },
+   {
+    "id": "H9R6FKE12Qg",
+    "name": "Nabdam",
+    "shortName": "Nabdam"
+   },
+   {
+    "id": "weWLbQOeyJ1",
+    "name": "Pusiga",
+    "shortName": "Pusiga"
+   },
+   {
+    "id": "X6GXCuwJu2B",
+    "name": "Talensi",
+    "shortName": "Talensi"
+   },
+   {
+    "id": "W4BbZvQMhLi",
+    "name": "Tempane",
+    "shortName": "Tempane"
+   }
+  ]
+ },
+ {
+  "id": "gouk8zuxQyu",
+  "name": "Upper West",
+  "districts": [
+   {
+    "id": "c65JHrVCa4L",
+    "name": "Daffiama Bussie Issa",
+    "shortName": "Daffiama Bussie"
+   },
+   {
+    "id": "kT8duXCj7Gn",
+    "name": "Jirapa",
+    "shortName": "Jirapa"
+   },
+   {
+    "id": "mMcpzf9UUvw",
+    "name": "Lambussie Karni",
+    "shortName": "Lambussie"
+   },
+   {
+    "id": "uJLIrvYuc7J",
+    "name": "Lawra",
+    "shortName": "Lawra"
+   },
+   {
+    "id": "V77NnmhSkUi",
+    "name": "Nadowli Kaleo",
+    "shortName": "Nadowli Kaleo"
+   },
+   {
+    "id": "YxKKfoOEIAV",
+    "name": "Nandom",
+    "shortName": "Nandom"
+   },
+   {
+    "id": "bekuAGuaY5z",
+    "name": "Sissala East",
+    "shortName": "Sissala East"
+   },
+   {
+    "id": "TynN3S045ba",
+    "name": "Sissala West",
+    "shortName": "Sissala West"
+   },
+   {
+    "id": "gwkVMRD64nm",
+    "name": "Wa East",
+    "shortName": "Wa East"
+   },
+   {
+    "id": "SeNAsxwMUuA",
+    "name": "Wa Municipal",
+    "shortName": "Wa Mun."
+   },
+   {
+    "id": "YXevud8yIEb",
+    "name": "Wa West",
+    "shortName": "Wa West"
+   }
+  ]
+ },
+ {
+  "id": "GMkuN1XDzqa",
+  "name": "Volta",
+  "districts": [
+   {
+    "id": "PSej4EwEAL5",
+    "name": "Afadjato South",
+    "shortName": "Afadjato South"
+   },
+   {
+    "id": "mGCe5yJeV7h",
+    "name": "Agotime Ziope",
+    "shortName": "Agotime Ziope"
+   },
+   {
+    "id": "xMaCw9Fgf1H",
+    "name": "Akatsi North",
+    "shortName": "Akatsi North"
+   },
+   {
+    "id": "Eo2Kgp1rtBa",
+    "name": "Akatsi South",
+    "shortName": "Akatsi South"
+   },
+   {
+    "id": "RI1n8Pl6sPD",
+    "name": "Anloga",
+    "shortName": "Anloga"
+   },
+   {
+    "id": "WSZQ7cdrnKx",
+    "name": "Central Tongu",
+    "shortName": "Central Tongu"
+   },
+   {
+    "id": "CpDb4pNbT0K",
+    "name": "Ho Municipal",
+    "shortName": "Ho Mun."
+   },
+   {
+    "id": "LSaSR7FPIrj",
+    "name": "Ho West",
+    "shortName": "Ho West"
+   },
+   {
+    "id": "tVldsqsXkjN",
+    "name": "Hohoe",
+    "shortName": "Hohoe"
+   },
+   {
+    "id": "ECUYIZTO5Zb",
+    "name": "Keta Municipal",
+    "shortName": "Keta Mun."
+   },
+   {
+    "id": "xADzv10MA0O",
+    "name": "Ketu North",
+    "shortName": "Ketu North"
+   },
+   {
+    "id": "vosgKIODxCy",
+    "name": "Ketu South Municipal",
+    "shortName": "Ketu South"
+   },
+   {
+    "id": "oX5WslFnwQX",
+    "name": "Kpando",
+    "shortName": "Kpando"
+   },
+   {
+    "id": "y8jvGQp3JCk",
+    "name": "North Dayi",
+    "shortName": "North Dayi"
+   },
+   {
+    "id": "HscXqS67LqF",
+    "name": "North Tongu",
+    "shortName": "North Tongu"
+   },
+   {
+    "id": "QriDecET39a",
+    "name": "South Dayi",
+    "shortName": "South Dayi"
+   },
+   {
+    "id": "TcEEG2RMBA2",
+    "name": "South Tongu",
+    "shortName": "South Tongu"
+   }
+  ]
+ },
+ {
+  "id": "WUDkVgmuvwH",
+  "name": "Western",
+  "districts": [
+   {
+    "id": "Dm3MBC5hJnm",
+    "name": "Ahanta West",
+    "shortName": "Ahanta West"
+   },
+   {
+    "id": "JwfQOrzRnlL",
+    "name": "Amenfi Central",
+    "shortName": "Amenfi Central"
+   },
+   {
+    "id": "xdztCH8fJ6K",
+    "name": "Amenfi East",
+    "shortName": "Amenfi East"
+   },
+   {
+    "id": "UgzdOa5xn8E",
+    "name": "Amenfi West",
+    "shortName": "Amenfi West"
+   },
+   {
+    "id": "k9GXloWV4wM",
+    "name": "Effia Kwesimintsim",
+    "shortName": "Effia Kwesimintsim"
+   },
+   {
+    "id": "YYtjdEtVqif",
+    "name": "Ellembelle",
+    "shortName": "Ellembelle"
+   },
+   {
+    "id": "rUNW6O2lRdE",
+    "name": "Jomoro",
+    "shortName": "Jomoro"
+   },
+   {
+    "id": "P34u1aRm6EZ",
+    "name": "Mpohor",
+    "shortName": "Mpohor"
+   },
+   {
+    "id": "NrNzldbPJxR",
+    "name": "Nzema East",
+    "shortName": "Nzema East"
+   },
+   {
+    "id": "VBou0AW6394",
+    "name": "Prestea Huni Valley",
+    "shortName": "Prestea Huni V."
+   },
+   {
+    "id": "PAlyausY6Sg",
+    "name": "Sekondi Takoradi Metropolitan",
+    "shortName": "STMA"
+   },
+   {
+    "id": "KAQN53Yf8e7",
+    "name": "Shama",
+    "shortName": "Shama"
+   },
+   {
+    "id": "MuEwVOJZ0r8",
+    "name": "Tarkwa Nsuaem",
+    "shortName": "Tarkwa Nsuaem"
+   },
+   {
+    "id": "STgAr3rqzr4",
+    "name": "Wassa Amenfi East",
+    "shortName": "Wassa Amenfi E"
+   },
+   {
+    "id": "LpCm2nGtTV2",
+    "name": "Wassa East",
+    "shortName": "Wassa East"
+   }
+  ]
+ },
+ {
+  "id": "Qf9Z9S6W8pe",
+  "name": "Western North",
+  "districts": [
+   {
+    "id": "Kjjv4KrDNJ7",
+    "name": "Bia East",
+    "shortName": "Bia East"
+   },
+   {
+    "id": "MdBAYIPBOam",
+    "name": "Bia West",
+    "shortName": "Bia West"
+   },
+   {
+    "id": "TL3iSjGYrzX",
+    "name": "Bodi",
+    "shortName": "Bodi"
+   },
+   {
+    "id": "KNIOZaJz32j",
+    "name": "Juaboso",
+    "shortName": "Juaboso"
+   },
+   {
+    "id": "KVP1OVx5eUJ",
+    "name": "Sefwi Akontombra",
+    "shortName": "Sefwi Akontombra"
+   },
+   {
+    "id": "QRGlzqNm1OE",
+    "name": "Sefwi Wiawso",
+    "shortName": "Sefwi Wiawso"
+   },
+   {
+    "id": "aiWFnoMw2Il",
+    "name": "Suaman",
+    "shortName": "Suaman"
+   }
+  ]
+ }
+]

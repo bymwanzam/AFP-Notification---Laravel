@@ -1,0 +1,36 @@
+/* SMS to district officers: the line under a due or overdue case, the send dialog and the contacts list. */
+.smsrow { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 12px; }
+.smsrow .btn.sms { padding: 4px 10px; }
+.btn svg { flex: none; }
+.linkbtn { font: inherit; font-size: .8rem; color: var(--accent); background: none; border: 0; padding: 0; text-decoration: underline; cursor: pointer; }
+.sms-good { color: var(--ok); }
+.sms-wait { color: var(--warn); }
+.sms-bad, .sms-error { color: var(--flash); }
+.sms-error { margin: 0; font-size: .9rem; }
+
+.smsdlg { width: min(560px, calc(100vw - 32px)); max-height: calc(100vh - 48px); padding: 0; border: 1px solid var(--rule); border-radius: 12px; background: var(--surface); color: var(--ink); box-shadow: var(--shadow); }
+.smsdlg::backdrop { background: rgba(10, 14, 20, .5); }
+.smsdlg .dlg-head { display: flex; justify-content: space-between; align-items: center; gap: 12px; padding: 14px 18px; border-bottom: 1px solid var(--rule); position: sticky; top: 0; background: var(--surface); z-index: 1; }
+.smsdlg h2 { margin: 0; font-family: var(--display); font-size: 1.15rem; }
+.smsdlg .dlg-body { padding: 16px 18px; display: grid; gap: 14px; }
+.smsdlg .sms-to, .smsdlg .sms-msg { display: grid; gap: 4px; }
+.smsdlg .sms-msg p { margin: 0; padding: 12px 14px; border-radius: 10px; background: var(--accent-soft); line-height: 1.45; }
+.smsdlg .dlg-acts { display: flex; justify-content: flex-end; flex-wrap: wrap; gap: 8px; }
+.smsdlg select.in { justify-self: start; }
+
+.sms-state { margin: 0; padding: 10px 12px; border-radius: 8px; font-weight: 600; font-size: .9rem; }
+.sms-state.on { color: var(--ok); background: var(--ok-soft); }
+.sms-state.off { color: var(--warn); background: var(--warn-soft); }
+.sms-form { display: grid; gap: 12px; }
+.sms-field { display: grid; gap: 4px; }
+.sms-test { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 8px; padding-top: 14px; border-top: 1px solid var(--rule); }
+.sms-test .label, .sms-test p { grid-column: 1 / -1; margin: 0; }
+
+.sms-list { display: grid; }
+.sms-officer { display: grid; grid-template-columns: minmax(0, 1.2fr) minmax(0, 1.2fr) minmax(0, 1fr) auto; gap: 8px; align-items: center; padding: 8px 0; border-bottom: 1px solid var(--rule); }
+.sms-officer .dist { font-weight: 600; font-size: .9rem; }
+.sms-officer .in { min-width: 0; }
+@media (max-width: 560px) {
+  .sms-officer { grid-template-columns: 1fr 1fr auto; }
+  .sms-officer .dist { grid-column: 1 / -1; }
+}
